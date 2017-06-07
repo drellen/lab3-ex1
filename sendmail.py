@@ -2,8 +2,8 @@
 
 import smtplib
 
-fromaddr = 'drellenster@gmail.com'
-toaddr  = 'dre_allen@hotmail.com'
+fromaddr = '*****@gmail.com'
+toaddr  = '****@hotmail.com'
 fromname = 'The One'
 toname = 'Teach'
 subject = 'Test'
@@ -22,7 +22,7 @@ messagetosend = message.format(
                              message)
 
 # Credentials (if needed)
-username = 'drellenster@gmail.com'
+username = '***r@gmail.com'
 password = 'svnvsegwoklmxyge'
 
 # The actual mail send
